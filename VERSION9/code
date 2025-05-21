@@ -2,6 +2,7 @@ local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/daw
 local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovechubbyorangecat/script/refs/heads/main/notification.lua",true))()
 
 NotificationLibrary.Info("Make sure to join Indriprisxtenxx's Discord!", "Info")
+NotificationLibrary.Info("Version 10 Will Possibly Be The Final Version, So It's Going To Take A While For The (possibley) Final Version", "Warn")
 
 local win = DiscordLib:Window("Indriprisxtenxx Ultimate Admin Gui V9 OPEN BETA")
 
@@ -1227,7 +1228,9 @@ end)
 
 unanchor:Seperator()
 
-local demon = win:Server("PREMIUM VERSION (coming in version 10)", "http://www.roblox.com/asset/?id=12838239791")
+local demon = win:Server("PREMIUM VERSION", "http://www.roblox.com/asset/?id=12838239791")
+
+local loldc = demon:Channel("(coming in version 10)")
 
 local dad = win:Server("▓▓▓����▓▓▓������║▌║▌║▌│█�����▓▓▓⣿��║▌║▌║▌│█�▓▓▓������║▌║▌║▌│█�����▓▓▓⣿����▓▓▓⣿", "http://www.roblox.com/asset/?id=8299125107")
 
