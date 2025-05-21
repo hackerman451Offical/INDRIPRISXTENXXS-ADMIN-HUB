@@ -2,7 +2,7 @@ local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/daw
 local NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovechubbyorangecat/script/refs/heads/main/notification.lua",true))()
 
 NotificationLibrary.Info("Make sure to join Indriprisxtenxx's Discord!", "Info")
-NotificationLibrary.Info("Version 10 Will Possibly Be The Final Version, So It's Going To Take A While For The (possibley) Final Version", "Warn")
+NotificationLibrary.Warn("Version 10 Will Possibly Be The Final Version, So It's Going To Take A While For The (possibley) Final Version", "Warn")
 
 local win = DiscordLib:Window("Indriprisxtenxx Ultimate Admin Gui V9 OPEN BETA")
 
