@@ -1227,7 +1227,7 @@ end)
 
 unanchor:Seperator()
 
-win:Server("PREMIUM VERSION (coming in version 10)", "http://www.roblox.com/asset/?id=12838239791")
+local demon = win:Server("PREMIUM VERSION (coming in version 10)", "http://www.roblox.com/asset/?id=12838239791")
 
 local dad = win:Server("▓▓▓����▓▓▓������║▌║▌║▌│█�����▓▓▓⣿��║▌║▌║▌│█�▓▓▓������║▌║▌║▌│█�����▓▓▓⣿����▓▓▓⣿", "http://www.roblox.com/asset/?id=8299125107")
 
